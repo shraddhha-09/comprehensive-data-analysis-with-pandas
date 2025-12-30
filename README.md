@@ -10,13 +10,13 @@ This project focuses on exploratory data analysis (EDA) using Python Pandas on t
 - Jupyter Notebook
 
 ## 📂 Project Structure
-~~
+```text
 blackfriday-pandas-analysis/
 │
 ├── final.ipynb
 └── dataset/
     └── train.csv
-~~
+```
 
 ## 📊 Dataset
 The BlackFriday dataset contains customer purchase information collected during Black Friday sales events.
